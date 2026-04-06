@@ -3,7 +3,8 @@
 
 int main() {
     int i, j, isPrime;
-
+   
+    printf("25331a05d8\n");
     printf("Prime numbers between 1 and 100 are:\n");
 
     for(i = 2; i <= 100; i++) {
